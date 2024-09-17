@@ -1,0 +1,19 @@
+.Tabela {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    font-size: 32px;
+    
+}
+
+.lista {
+    
+    border-bottom: 1px solid black;
+    background-color: rgb(243, 243, 243);
+
+}
+
+.libertadores {
+    background-color: blue;
+
+}

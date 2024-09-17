@@ -1,0 +1,39 @@
+.div-principal {
+    border: 1px solid black;
+    height: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.div-principal form {
+border: 1px solid black;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+width: 40%;
+}
+.btnEntrar {
+    width: 50px;
+}
+.input-box {
+    margin: 5px;
+}
+
+.imagem {
+    display:flex
+    justify-content: center;
+    margin: 10px;
+}
+
+ 
+.imagem-1 {
+width:40%;
+display: flex;
+justify-content: center;
+height: 330px; ;
+
+}
+
